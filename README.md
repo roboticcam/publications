@@ -6,7 +6,10 @@ Selected Subset of Publications
 
 ## Selected Journals ##
 
-*	Li, C, Xie, H, Fan, X, **Xu, R. Y. D**, Van Huffel, S, Mengersen K, (2020) Kernelized Sparse Bayesian Matrix Factorization, accepted Feb 2020 ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
+*	Li, C, Xie, H, Fan, X, **Xu, R. Y. D**, Van Huffel, S, Mengersen K, (2020) 
+(https://github.com/roboticcam/machine-learning-notes/blob/master/files/deecamp_2019.pdf)
+
+Kernelized Sparse Bayesian Matrix Factorization, accepted Feb 2020 ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
 
 *	Li, Y., Li, K., Xu, R. Y. D., Wang, X, Exploring Temporal Consistency for Human Pose Estimation in Videos (2020) accepted Jan 2020
 Pattern Recognition, IF 5.898
