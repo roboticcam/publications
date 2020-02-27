@@ -4,7 +4,7 @@ Selected Subset of Publications
 (Full list of 70 publications from Google Scholar) – blue colored first author is a UTS Ph.D. student whom is either principally-supervised by him or he was the primary technical supervisor at the time of the publication. 
 
 
-Selected Journals
+## Selected Journals
 
 •	Li, C, Xie, H, Fan, X, Xu, R. Y. D., Van Huffel, S, Mengersen K, (2020) Kernelized Sparse Bayesian Matrix Factorization, accepted Feb 2020
 IEEE Transactions on Neural Networks and Learning Systems, IF 11.683
