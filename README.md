@@ -12,37 +12,37 @@ Selected Subset of Publications
 
 *	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020) [Fast non-rigid points registration with cluster correspondences projection](https://github.com/roboticcam/publications/blob/master/papers/correspondences_projection.pdf), 170, 107425, ***Signal Processing, IF 4.086***
 
-*	Li, C., Xie, H., Fan, **Xu, R.Y.D**., Van Huffel, S., Mengersen K., (2019), [Image denoising based on nonlocal Bayesian singular value thresholding and Stein's unbiased risk estimator](), 28 (10), pp. 4899 – 4911 ***IEEE Transactions on Image Processing, IF 6.79***
+*	Li, C., Xie, H., Fan, **Xu, R.Y.D**., Van Huffel, S., Mengersen K., (2019), [Image denoising based on nonlocal Bayesian singular value thresholding and Stein's unbiased risk estimator](https://github.com/roboticcam/publications/blob/master/papers/bayesian_svd.pdf), 28 (10), pp. 4899 – 4911 ***IEEE Transactions on Image Processing, IF 6.79***
 
-*	Jiang S., Li K, ***Xu, R.Y.D., (2019)*** [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
+*	Jiang S., Li K, ***Xu, R.Y.D., (2019)*** [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](https://github.com/roboticcam/publications/blob/master/papers/relative_pairwise.pdf), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
 
-*	Bargi, A., **Xu, R.Y.D**., & Piccardi, M., (2018) [AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data](), 29 (9), pp. 3953 - 3968  ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
+*	Bargi, A., **Xu, R.Y.D**., & Piccardi, M., (2018) [AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data](https://github.com/roboticcam/publications/blob/master/papers/adon.pdf), 29 (9), pp. 3953 - 3968  ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., & Luo, X., (2017) [Doubly Nonparametric Sparse Nonnegative Matrix Factorization based on Dependent Indian Buffet Processes](), Vol 29, NO. 5 pp. 1835 - 1849	***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., & Luo, X., (2017) [Doubly Nonparametric Sparse Nonnegative Matrix Factorization based on Dependent Indian Buffet Processes](https://github.com/roboticcam/publications/blob/master/papers/doubly.pdf), Vol 29, NO. 5 pp. 1835 - 1849	***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
-*	Li, J., Deng, C., **Xu, R.Y.D**., Tao, D., & Zhao, B., (2017), [Robust Object Tracking with Discrete Graph Based Multiple Experts](), 	Vol 26, Issue 6, pp. 2736 - 2750, ***IEEE Transactions On Image Processing, IF 6.79***
+*	Li, J., Deng, C., **Xu, R.Y.D**., Tao, D., & Zhao, B., (2017), [Robust Object Tracking with Discrete Graph Based Multiple Experts](https://github.com/roboticcam/publications/blob/master/papers/tracking_multi_experts.pdf), 	Vol 26, Issue 6, pp. 2736 - 2750, ***IEEE Transactions On Image Processing, IF 6.79***
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Nonparametric Relational Topic Model through Dependent Gamma Processes](), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Nonparametric Relational Topic Model through Dependent Gamma Processes](https://github.com/roboticcam/publications/blob/master/papers/dependent_gamma.pdf), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
 
-*	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Nonparametric Relational Models by Conjugately Incorporating Node Information in a Network](). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
+*	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Nonparametric Relational Models by Conjugately Incorporating Node Information in a Network](https://github.com/roboticcam/publications/blob/master/papers/conjugately_incorporating.pdf). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017), [A Bayesian Nonparametric Model for Multi-Label Learning](),  Volume 106, Issue 11, pp 1787–1815 ***Machine Learning IF 2.809***
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017), [A Bayesian Nonparametric Model for Multi-Label Learning](https://github.com/roboticcam/publications/blob/master/papers/multi_label_learning.pdf),  Volume 106, Issue 11, pp 1787–1815 ***Machine Learning IF 2.809***
 
-*	Li, J., Zhao, B., Deng, C. & Xu, R.Y.D. (2016), [Time Varying Metric Learning for visual tracking](), vol. 80, pp. 157-164.							 ***Pattern Recognition Letters, IF 2.810***
+*	Li, J., Zhao, B., Deng, C. & Xu, R.Y.D. (2016), [Time Varying Metric Learning for visual tracking](https://github.com/roboticcam/publications/blob/master/papers/time_varying_metric_learning.pdf), vol. 80, pp. 157-164.	***Pattern Recognition Letters, IF 2.810***
 
-*	Qiao, M., **Xu, R.Y.D**., Bian, W. & Tao, D. (2016), [Fast sampling for time-varying Determinantal Point Processes](), vol. 11, no. 1. ***ACM Transactions on Knowledge Discovery from Data, IF 1.000***
+*	Qiao, M., **Xu, R.Y.D**., Bian, W. & Tao, D. (2016), [Fast sampling for time-varying Determinantal Point Processes](https://github.com/roboticcam/publications/blob/master/papers/fast_sampling_dpp.pdf), vol. 11, no. 1. ***ACM Transactions on Knowledge Discovery from Data, IF 1.000***
 
-*	Kemp, M., **Xu, R.Y.D**., (2015), 'Geometrically-constrained balloon fitting for multiple connected ellipses', vol. 48, no. 7, pp. 2198-2208.	***Pattern Recognition, IF 5.898***
+*	Kemp, M., **Xu, R.Y.D**., (2015), [Geometrically-constrained balloon fitting for multiple connected ellipses](https://github.com/roboticcam/publications/blob/master/papers/balloon_fitting.pdf), vol. 48, no. 7, pp. 2198-2208.	***Pattern Recognition, IF 5.898***
 
-*	Qiao, M., Bian, W., **Xu, R.Y.D**., Tao, D., (2015), 'Diversified Hidden Markov Models for Sequential Labeling', vol. 27, no. 11, pp. 2947-2960. ***IEEE Transactions on Knowledge and Data Engineering,  IF 3.857***
+*	Qiao, M., Bian, W., **Xu, R.Y.D**., Tao, D., (2015), [Diversified Hidden Markov Models for Sequential Labeling](https://github.com/roboticcam/publications/blob/master/papers/diversified_hmm.pdf), vol. 27, no. 11, pp. 2947-2960. ***IEEE Transactions on Knowledge and Data Engineering,  IF 3.857***
 
-*	Fan, X., Cao, L., **Xu, R.Y.D**., (2015), [Dynamic Infinite Mixed-Membership Stochastic Blockmodel](), Vol. 26, Issue 9, pp. 2072 - 2085, ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
+*	Fan, X., Cao, L., **Xu, R.Y.D**., (2015), [Dynamic Infinite Mixed-Membership Stochastic Blockmodel](https://github.com/roboticcam/publications/blob/master/papers/infinite_mmsb.pdf), Vol. 26, Issue 9, pp. 2072 - 2085, ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
-*	Zare Borzeshi, E., Concha, O.P., **Xu, R.Y.D**., & Piccardi, M. (2013), [Joint Action Segmentation and Classification by an Extended Hidden Markov Model](), vol. 20, no. 12, pp. 1207-1210. ***IEEE Signal Processing Letters, IF 3.268***
+*	Zare Borzeshi, E., Concha, O.P., **Xu, R.Y.D**., & Piccardi, M. (2013), [Joint Action Segmentation and Classification by an Extended Hidden Markov Model](https://github.com/roboticcam/publications/blob/master/papers/joint_action_segmentation.pdf), vol. 20, no. 12, pp. 1207-1210. ***IEEE Signal Processing Letters, IF 3.268***
 
-* **Xu, R.Y.D**., & Kemp, M. (2010), [Fitting Multiple Connected Ellipses To An Image Silhouette Hierarchically](), vol. 19, no. 7, pp. 1673-1682. ***IEEE Transactions On Image Processing, IF 6.79***
+* **Xu, R.Y.D**., & Kemp, M. (2010), [Fitting Multiple Connected Ellipses To An Image Silhouette Hierarchically](https://github.com/roboticcam/publications/blob/master/papers/fitting_ellipses_hierarchically.pdf), vol. 19, no. 7, pp. 1673-1682. ***IEEE Transactions On Image Processing, IF 6.79***
 
-*	**Xu, R.Y.D**., & Kemp, M. (2010), [An Iterative Approach for Fitting Multiple Connected Ellipse Structure to Silhouette](), vol. 31, no. 13, pp. 1860-1867. ***Pattern Recognition Letters, IF 2.810***
+*	**Xu, R.Y.D**., & Kemp, M. (2010), [An Iterative Approach for Fitting Multiple Connected Ellipse Structure to Silhouette](https://github.com/roboticcam/publications/blob/master/papers/iterative_ellipse.pdf), vol. 31, no. 13, pp. 1860-1867. ***Pattern Recognition Letters, IF 2.810***
 
 ## [Permanent arXiv]
 
