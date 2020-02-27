@@ -24,7 +24,7 @@ Selected Subset of Publications
 
 *	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Nonparametric Relational Topic Model through Dependent Gamma Processes](), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
 
-*	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Hidden Structures with Relational Models by Adequately Involving Rich Information in A Network](). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
+*	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Nonparametric Relational Models by Conjugately Incorporating Node Information in a Network](). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
 
 *	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017), [A Bayesian Nonparametric Model for Multi-Label Learning](),  Volume 106, Issue 11, pp 1787–1815 ***Machine Learning IF 2.809***
 
