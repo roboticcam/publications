@@ -1,2 +1,2 @@
-# publications
-this is include the selection of my publications
+# Selected Publications
+this includes the selection of my publications
