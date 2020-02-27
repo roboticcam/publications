@@ -27,7 +27,7 @@ Selected Subset of Publications, [Full list of 70 publications from Google Schol
 
 *	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017), [A Bayesian Nonparametric Model for Multi-Label Learning](https://github.com/roboticcam/publications/blob/master/papers/multi_label_learning.pdf),  Volume 106, Issue 11, pp 1787–1815 ***Machine Learning IF 2.809***
 
-*	Li, J., Zhao, B., Deng, C. & Xu, R.Y.D. (2016), [Time Varying Metric Learning for visual tracking](https://github.com/roboticcam/publications/blob/master/papers/time_varying_metric_learning.pdf), vol. 80, pp. 157-164.	***Pattern Recognition Letters, IF 2.810***
+*	Li, J., Zhao, B., Deng, C., & **Xu, R.Y.D**., (2016), [Time Varying Metric Learning for visual tracking](https://github.com/roboticcam/publications/blob/master/papers/time_varying_metric_learning.pdf), vol. 80, pp. 157-164.	***Pattern Recognition Letters, IF 2.810***
 
 *	Qiao, M., **Xu, R.Y.D**., Bian, W. & Tao, D. (2016), [Fast sampling for time-varying Determinantal Point Processes](https://github.com/roboticcam/publications/blob/master/papers/fast_sampling_dpp.pdf), vol. 11, no. 1. ***ACM Transactions on Knowledge Discovery from Data, IF 1.000***
 
