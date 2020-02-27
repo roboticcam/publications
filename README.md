@@ -8,9 +8,9 @@ Selected Subset of Publications
 
 *	Li, Y., Li, K., **Xu, R. Y. D**., Wang, X., (2020), [Exploring Temporal Consistency for Human Pose Estimation in Videos](https://github.com/roboticcam/publications/blob/master/papers/temporal_consistency.pdf), *accepted Jan 2020*, ***Pattern Recognition, IF 5.898***
 
-*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**, Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization](), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
+*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization](), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
 
-*	M Li, Xu, R. Y. D., J Xin, K Zhang, J Jing, (2020) Fast non-rigid points registration with cluster correspondences projection, 170, 107425, Signal Processing, IF 4.086
+*	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020) [Fast non-rigid points registration with cluster correspondences projection, 170, 107425], ***Signal Processing, IF 4.086***
 
 *	Li, C., Xie, H, Fan, Xu, R.Y.D., Van Huffel, S, Mengersen K, (2019), Image denoising based on nonlocal Bayesian singular value thresholding and Stein's unbiased risk estimator, 28 (10), pp. 4899 – 4911
 IEEE Transactions on Image Processing, IF 6.79
