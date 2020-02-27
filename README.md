@@ -1,7 +1,7 @@
 # Selected Publications
 
 Selected Subset of Publications 
-(Full list of 70 publications from Google Scholar) – blue colored first author is a UTS Ph.D. student whom is either principally-supervised by him or he was the primary technical supervisor at the time of the publication. 
+(Full list of 70 publications from Google Scholar) – nearl all papers's first author is a UTS Ph.D. student whom is either principally-supervised by me, or I was the primary technical supervisor at the time of the publication. 
 
 
 ## Selected Journals ##
