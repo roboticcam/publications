@@ -43,8 +43,8 @@ Selected Subset of Publications
 * **Xu, R.Y.D**., & Kemp, M. (2010), [Fitting Multiple Connected Ellipses To An Image Silhouette Hierarchically](), vol. 19, no. 7, pp. 1673-1682. ***IEEE Transactions On Image Processing, IF 6.79***
 
 *	**Xu, R.Y.D**., & Kemp, M. (2010), [An Iterative Approach for Fitting Multiple Connected Ellipse Structure to Silhouette](), vol. 31, no. 13, pp. 1860-1867. ***Pattern Recognition Letters, IF 2.810***
-[Permanent arXiv]
 
+## [Permanent arXiv]
 
 *	Xu, R.Y.D. Caron, F., & Doucet, A (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm
 
