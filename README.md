@@ -21,7 +21,7 @@ Selected Subset of Publications, [Full list of 70 publications from Google Schol
 
 *	Li, J., Deng, C., **Xu, R.Y.D**., Tao, D., & Zhao, B., (2017), [Robust Object Tracking with Discrete Graph Based Multiple Experts](https://github.com/roboticcam/publications/blob/master/papers/tracking_multi_experts.pdf), 	Vol 26, Issue 6, pp. 2736 - 2750, ***IEEE Transactions On Image Processing, IF 6.79***
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Nonparametric Relational Topic Model through Dependent Gamma Processes](https://github.com/roboticcam/publications/blob/master/papers/dependent_gamma.pdf), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Bayesian Nonparametric Relational Topic Model through Dependent Gamma Processes](https://github.com/roboticcam/publications/blob/master/papers/dependent_gamma.pdf), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
 
 *	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Nonparametric Relational Models by Conjugately Incorporating Node Information in a Network](https://github.com/roboticcam/publications/blob/master/papers/conjugately_incorporating.pdf). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
 
