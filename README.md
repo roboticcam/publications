@@ -47,7 +47,8 @@ Selected Subset of Publications
 
 
 *	Xu, R.Y.D. Caron, F., & Doucet, A (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm
-Selected Conferences papers
+
+## Selected Conferences papers
 
 *	Huang, W., Xu, R. Y. D, Du, W., Zeng Y., and Zhao Y., (2020) Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (to appear), the 24th European Conference on Artificial Intelligence (ECAI 2020)
 
