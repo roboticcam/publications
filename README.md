@@ -47,21 +47,21 @@ You can download them by press the paper title
 
 ## [Permanent arXiv]
 
-*	**Xu, R.Y.D**., [Caron, F](http://www.stats.ox.ac.uk/~caron/)., [Doucet., A](http://www.stats.ox.ac.uk/~doucet/) (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm
+*	**Xu, R.Y.D**., [Caron, F](http://www.stats.ox.ac.uk/~caron/)., [Doucet., A](http://www.stats.ox.ac.uk/~doucet/) (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm, [arXiv:1602.03048](https://arxiv.org/abs/1602.03048)
 
 ## Selected Conferences papers
 
-*	Huang, W., Xu, R. Y. D, Du, W., Zeng Y., and Zhao Y., (2020) Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (to appear), the 24th European Conference on Artificial Intelligence (ECAI 2020)
+*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020) [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply](https://arxiv.org/pdf/1912.09132.pdf) (to appear), the 24th European Conference on Artificial Intelligence [arXiv version](https://arxiv.org/pdf/1912.09132.pdf)(**ECAI 2020**)
 
-*	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and Xu, R. Y. D (2020) Geometry Self-Supervised method for 3D Human Pose (to appear) Association for the Advancement of Artificial Intelligence (AAAI 2020)
+*	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf) (to appear) Association for the Advancement of Artificial Intelligence (AAAI 2020)
 
-*	Huang, W., Xu, R.Y.D., I. Oppermann (2019), accepted to appear, Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning (ACML 2019)
+*	Huang, W., **Xu, R.Y.D**., I. Oppermann (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning],PMLR 101:284-299, 2019,(http://proceedings.mlr.press/v101/huang19a.html) (**ACML 2019**)
 
-*	Huang, W.,  Xu, R.Y.D., I. Oppermann (2019), accepted to appear, Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning, (ACML 2019)
+*	Huang, W.,  Xu, R.Y.D., I. Oppermann (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning],PMLR 101:300-315, 2019,(http://proceedings.mlr.press/v101/huang19b.html), (**ACML 2019**)
 
-*	Fan., X, Xu., R. Y. D, Cao., L (2016), Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence (IJCAI 2016) 
+*	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
 
-*	Li, Q, Bian., W, Xu., R. Y. D, You., J and Tao., D (2016), Random Mixed Field Model for Mixed-Attribute Data Restoration, Association for the Advancement of Artificial Intelligence (AAAI 2016) 
+*	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), Random Mixed Field Model for Mixed-Attribute Data Restoration, Association for the Advancement of Artificial Intelligence (AAAI 2016) 
 
 *	Xuan, J., Lu, J., Zhang, G., Xu, R.Y.D. & Luo, X.,(2015) Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process, IEEE International Conference on Data Mining (ICDM 2015) 
 
