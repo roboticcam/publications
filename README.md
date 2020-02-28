@@ -55,30 +55,30 @@ You can download them by press the paper title
 
 *	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf) (to appear) Association for the Advancement of Artificial Intelligence (AAAI 2020)
 
-*	Huang, W., **Xu, R.Y.D**., I. Oppermann (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning],PMLR 101:284-299, 2019,(http://proceedings.mlr.press/v101/huang19a.html) (**ACML 2019**)
+*	Huang, W., **Xu, R.Y.D**., I. Oppermann (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning],PMLR 101:284-299, 2019,(http://proceedings.mlr.press/v101/huang19a/huang19a.pdf) (**ACML 2019**)
 
-*	Huang, W.,  Xu, R.Y.D., I. Oppermann (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning],PMLR 101:300-315, 2019,(http://proceedings.mlr.press/v101/huang19b.html), (**ACML 2019**)
+*	Huang, W.,  Xu, R.Y.D., I. Oppermann (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning],PMLR 101:300-315, 2019,(http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), (**ACML 2019**)
 
 *	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
 
-*	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), Random Mixed Field Model for Mixed-Attribute Data Restoration, Association for the Advancement of Artificial Intelligence (AAAI 2016) 
+*	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), [Random Mixed Field Model for Mixed-Attribute Data Restoration](https://github.com/roboticcam/publications/blob/master/papers/), Association for the Advancement of Artificial Intelligence (AAAI 2016) 
 
-*	Xuan, J., Lu, J., Zhang, G., Xu, R.Y.D. & Luo, X.,(2015) Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process, IEEE International Conference on Data Mining (ICDM 2015) 
+*	Xuan, J., Lu, J., Zhang, G., Xu, R.Y.D. & Luo, X.,(2015), [Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process](https://github.com/roboticcam/publications/blob/master/papers), IEEE International Conference on Data Mining (ICDM 2015) 
 
-*	Li, M., Xu, R. Y.D. & He, X.J. 2015, 'Face hallucination based on Nonparametric Bayesian learning', IEEE International Conference on Image Processing, (ICIP 2015) Quebec City, Canada, pp. 986-990.
+*	Li, M., Xu, R. Y.D. & He, X.J. 2015, [Face hallucination based on Nonparametric Bayesian learning](https://github.com/roboticcam/publications/blob/master/papers/), IEEE International Conference on Image Processing, (ICIP 2015) Quebec City, Canada, pp. 986-990.
 
-*	Bargi., A, Xu., R. Y. D, Ghahramani Z, Piccardi., M (2014), A non-parametric conditional factor regression model for high-dimensional input and response, Seventeenth International Conference on Artificial Intelligence and Statistics (AISTAT 2014), pp.77-85 
+*	Bargi., A, Xu., R. Y. D, Ghahramani Z, Piccardi., M (2014), [A non-parametric conditional factor regression model for high-dimensional input and response](), Seventeenth International Conference on Artificial Intelligence and Statistics (AISTAT 2014), pp.77-85 
 
-*	Bargi A, Xu, R. Y. D and Piccardi M, (2014), An Infinite Adaptive Online Learning Model for Segmentation and Classification of Streaming Data, International Conference on Pattern Recognition (ICPR 2014)
+*	Bargi A, Xu, R. Y. D and Piccardi M, (2014), [An Infinite Adaptive Online Learning Model for Segmentation and Classification of Streaming Data](https://github.com/roboticcam/publications/blob/master/papers/), International Conference on Pattern Recognition (ICPR 2014)
 
-*	Xu, R. Y. D and Kemp, M, (2009), Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning, IEEE International Conference on Image Processing (ICIP2009), Cairo Egypt
+*	Xu, R. Y. D and Kemp, M, (2009), [Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning](https://github.com/roboticcam/publications/blob/master/papers/), IEEE International Conference on Image Processing (ICIP2009), Cairo Egypt
 
-*	Xu, R. Y. D., J. M. Brown, et al. (2008). A Computer Vision Based Camera Pedestal's Vertical Motion Control. International Conference on Pattern Recognition (ICPR 2008), Florida, USA
+*	Xu, R. Y. D., J. M. Brown, et al. (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control. International Conference on Pattern Recognition](https://github.com/roboticcam/publications/blob/master/papers/) (ICPR 2008), Florida, USA
 
 *	Xu, R. Y. D. (2008). A Computer Vision based Whiteboard Capture System. IEEE Workshop on Application of Computer Vision (WACV 2008), Colorado, USA
 
-*	Xu, R. Y. D., J. B. Gao, et al. (2008). Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras. IEEE International Conference on Multimedia & Expo (ICME 2008), Hanover, Germany: 45-48.
+*	Xu, R. Y. D., J. B. Gao, et al. (2008), [Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras](https://github.com/roboticcam/publications/blob/master/papers/), IEEE International Conference on Multimedia & Expo (ICME 2008), Hanover, Germany: 45-48.
 
-*	Xu, R. Y. D. and J. S. Jin (2006). Individual Object Interaction for Camera Control and Multimedia Synchronization. 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2006), Toulouse, France: 481-484.
+*	Xu, R. Y. D. and J. S. Jin (2006), [Individual Object Interaction for Camera Control and Multimedia Synchronization](https://github.com/roboticcam/publications/blob/master/papers/), 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2006), Toulouse, France: 481-484.
 
-*	Allen, J. G., Xu, R. Y. D., et al. (2003). Object Tracking Using CamShift Algorithm and Multiple Quantized Feature Spaces. Pan-Sydney Area Workshop on Visual Information Processing (VIP2003), Sydney, Australia: 3-7 480+ Google citations
+*	Allen, J. G., Xu, R. Y. D., et al. (2003), [Object Tracking Using CamShift Algorithm and Multiple Quantized Feature Spaces](https://github.com/roboticcam/publications/blob/master/papers/), Pan-Sydney Area Workshop on Visual Information Processing (VIP2003), Sydney, Australia: 3-7 480+ Google citations
