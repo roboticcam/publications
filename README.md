@@ -55,15 +55,15 @@ You can download them by press the paper title
 
 *	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf) (to appear) Association for the Advancement of Artificial Intelligence (AAAI 2020)
 
-*	Huang, W., **Xu, R.Y.D**., I. Oppermann (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning],PMLR 101:284-299, 2019,(http://proceedings.mlr.press/v101/huang19a/huang19a.pdf) (**ACML 2019**)
+*	Huang, W., **Xu, R.Y.D**., Oppermann, I., (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning](http://proceedings.mlr.press/v101/huang19a/huang19a.pdf), PMLR 101:284-299, 2019, (**ACML 2019**)
 
-*	Huang, W.,  Xu, R.Y.D., I. Oppermann (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning],PMLR 101:300-315, 2019,(http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), (**ACML 2019**)
+*	Huang, W.,  Xu, R.Y.D., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), PMLR 101:300-315, 2019, (**ACML 2019**)
 
 *	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
 
-*	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), [Random Mixed Field Model for Mixed-Attribute Data Restoration](https://github.com/roboticcam/publications/blob/master/papers/), Association for the Advancement of Artificial Intelligence (AAAI 2016) 
+*	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), [Random Mixed Field Model for Mixed-Attribute Data Restoration](https://github.com/roboticcam/publications/blob/master/papers/random_mixed_field.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2016**) 
 
-*	Xuan, J., Lu, J., Zhang, G., Xu, R.Y.D. & Luo, X.,(2015), [Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process](https://github.com/roboticcam/publications/blob/master/papers), IEEE International Conference on Data Mining (ICDM 2015) 
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X.,(2015), [Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process](https://github.com/roboticcam/publications/blob/master/papers/infinite_authors.pdf), IEEE International Conference on Data Mining (ICDM 2015) 
 
 *	Li, M., Xu, R. Y.D. & He, X.J. 2015, [Face hallucination based on Nonparametric Bayesian learning](https://github.com/roboticcam/publications/blob/master/papers/), IEEE International Conference on Image Processing, (ICIP 2015) Quebec City, Canada, pp. 986-990.
 
