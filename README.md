@@ -47,7 +47,7 @@ You can download them by press the paper title
 
 ## [Permanent arXiv]
 
-*	Xu, R.Y.D. Caron, F., & Doucet, A (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm
+*	**Xu, R.Y.D**., [Caron, F](http://www.stats.ox.ac.uk/~caron/)., [Doucet., A](http://www.stats.ox.ac.uk/~doucet/) (2016), Bayesian nonparametric image segmentation using a generalized Swendsen-Wang algorithm
 
 ## Selected Conferences papers
 
