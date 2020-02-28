@@ -57,25 +57,25 @@ You can download them by press the paper title
 
 *	Huang, W., **Xu, R.Y.D**., Oppermann, I., (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning](http://proceedings.mlr.press/v101/huang19a/huang19a.pdf), PMLR 101:284-299, 2019, (**ACML 2019**)
 
-*	Huang, W.,  Xu, R.Y.D., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), PMLR 101:300-315, 2019, (**ACML 2019**)
+*	Huang, W.,  **Xu, R.Y.D**., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), PMLR 101:300-315, 2019, (**ACML 2019**)
 
 *	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
 
 *	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), [Random Mixed Field Model for Mixed-Attribute Data Restoration](https://github.com/roboticcam/publications/blob/master/papers/random_mixed_field.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2016**) 
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X.,(2015), [Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process](https://github.com/roboticcam/publications/blob/master/papers/infinite_authors.pdf), IEEE International Conference on Data Mining (ICDM 2015) 
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X.,(2015), [Infinite Author Topic Model based on Mixed Gamma-Negative Binomial Process](https://github.com/roboticcam/publications/blob/master/papers/infinite_authors.pdf), IEEE International Conference on Data Mining (**ICDM 2015**) 
 
-*	Li, M., **Xu, R. Y.D**., & He, X.J. 2015, [Face hallucination based on Nonparametric Bayesian learning](https://github.com/roboticcam/publications/blob/master/papers/face_hallucination.pdf), IEEE International Conference on Image Processing, (ICIP 2015) Quebec City, Canada, pp. 986-990.
+*	Li, M., **Xu, R. Y.D**., & He, X.J. 2015, [Face hallucination based on Nonparametric Bayesian learning](https://github.com/roboticcam/publications/blob/master/papers/face_hallucination.pdf), IEEE International Conference on Image Processing, (**ICIP 2015**) Quebec City, Canada, pp. 986-990.
 
 *	Bargi, A., **Xu, R. Y. D**., [Ghahramani Z](http://mlg.eng.cam.ac.uk/zoubin/), Piccardi., M (2014), [A non-parametric conditional factor regression model for high-dimensional input and response](http://proceedings.mlr.press/v33/bargi14.pdf), Seventeenth International Conference on Artificial Intelligence and Statistics (**AISTAT 2014**), pp.77-85 
 
-*	Bargi A., **Xu, R. Y. D**., Piccardi M, (2014), [An Infinite Adaptive Online Learning Model for Segmentation and Classification of Streaming Data](https://github.com/roboticcam/publications/blob/master/papers/infinite_stream_data.pdf), International Conference on Pattern Recognition (ICPR 2014)
+*	Bargi A., **Xu, R. Y. D**., Piccardi M, (2014), [An Infinite Adaptive Online Learning Model for Segmentation and Classification of Streaming Data](https://github.com/roboticcam/publications/blob/master/papers/infinite_stream_data.pdf), International Conference on Pattern Recognition (**ICPR 2014**)
 
-*	Xu, R. Y. D and Kemp, M, (2009), [Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning](https://github.com/roboticcam/publications/blob/master/papers/multiple_curvature_ellipse.pdf), IEEE International Conference on Image Processing (**ICIP2009**), Cairo Egypt
+*	**Xu, R. Y. D**., Kemp, M., (2009), [Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning](https://github.com/roboticcam/publications/blob/master/papers/multiple_curvature_ellipse.pdf), IEEE International Conference on Image Processing (**ICIP2009**), Cairo Egypt
 
-*	Xu, R. Y. D., J. M. Brown, et al. (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control. International Conference on Pattern Recognition](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf) (ICPR 2008), Florida, USA
+*	**Xu, R. Y. D**., Brown, J., Traish, J., Dezwa, D., (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control. International Conference on Pattern Recognition](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf) (**ICPR 2008**), Florida, USA
 
-*	Xu, R. Y. D. (2008). [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
+*	**Xu, R. Y. D**., (2008). [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
 
 *	Xu, R. Y. D., J. B. Gao, et al. (2008), [Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras](https://github.com/roboticcam/publications/blob/master/papers/calibrated_ptz.pdf), IEEE International Conference on Multimedia & Expo (**ICME 2008**), Hanover, Germany: 45-48.
 
