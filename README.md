@@ -1,6 +1,6 @@
 # Selected Publications
 
-Selected Subset of Publications, [Full list of 70 publications from Google Scholar](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) – nearl all papers's first author is a UTS Ph.D. student whom is either principally-supervised by me, or I was the primary technical supervisor at the time of the publication.
+Selected Subset of Publications, [Full list of 70 publications from Google Scholar](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) – In the last decade, nearl all papers's first author is a UTS Ph.D. student whom is either principally-supervised by me, or I was the primary technical supervisor at the time of the publication.
 
 You can download them by press the paper title
 
