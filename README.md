@@ -77,6 +77,6 @@ You can download them by press the paper title
 
 *	**Xu, R. Y. D**., (2008). [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
 
-*	Xu, R. Y. D., J. B. Gao, et al. (2008), [Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras](https://github.com/roboticcam/publications/blob/master/papers/calibrated_ptz.pdf), IEEE International Conference on Multimedia & Expo (**ICME 2008**), Hanover, Germany: 45-48.
+*	**Xu, R. Y. D**., Gao, J., Antolovich, M., (2008), [Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras](https://github.com/roboticcam/publications/blob/master/papers/calibrated_ptz.pdf), IEEE International Conference on Multimedia & Expo (**ICME 2008**), Hanover, Germany: 45-48.
 
-*	Allen, J. G., Xu, R. Y. D., et al. (2003), [Object Tracking Using CamShift Algorithm and Multiple Quantized Feature Spaces](https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV36Allen.pdf), Pan-Sydney Area Workshop on Visual Information Processing (VIP2003), Sydney, Australia: 3-7 **480+** Google citations
+*	Allen, J. G., **Xu, R. Y. D**., Jin, J., (2003), [Object Tracking Using CamShift Algorithm and Multiple Quantized Feature Spaces](https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV36Allen.pdf), Pan-Sydney Area Workshop on Visual Information Processing (VIP2003), Sydney, Australia: 3-7 **480+** Google citations
