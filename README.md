@@ -59,7 +59,7 @@ You can download them by press the paper title
 
 *	Huang, W.,  **Xu, R.Y.D**., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), Asian Conference on Machine Learning, PMLR 101:300-315, 2019, (**ACML 2019**)
 
-*	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
+*	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel](https://www.ijcai.org/Proceedings/16/Papers/210.pdf), International Joint Conference on Artificial Intelligence, (**IJCAI 2016**) 
 
 *	Li, Q, Bian., W, **Xu., R. Y. D**., You., J and Tao., D (2016), [Random Mixed Field Model for Mixed-Attribute Data Restoration](https://github.com/roboticcam/publications/blob/master/papers/random_mixed_field.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2016**) 
 
