@@ -73,7 +73,7 @@ You can download them by press the paper title
 
 *	**Xu, R. Y. D**., Kemp, M., (2009), [Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning](https://github.com/roboticcam/publications/blob/master/papers/multiple_curvature_ellipse.pdf), IEEE International Conference on Image Processing (**ICIP2009**), Cairo Egypt
 
-*	**Xu, R. Y. D**., Brown, J., Traish, J., Dezwa, D., (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control. International Conference on Pattern Recognition](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf) (**ICPR 2008**), Florida, USA
+*	**Xu, R. Y. D**., Brown, J., Traish, J., Dezwa, D., (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf), International Conference on Pattern Recognition (**ICPR 2008**), Florida, USA
 
 *	**Xu, R. Y. D**., (2008). [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
 
