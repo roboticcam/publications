@@ -55,9 +55,9 @@ You can download them by press the paper title
 
 *	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2020**)
 
-*	Huang, W., **Xu, R.Y.D**., Oppermann, I., (2019), [Realistic Image Generation using Region-phrase Attention, Asian Conference eon Machine Learning](http://proceedings.mlr.press/v101/huang19a/huang19a.pdf), PMLR 101:284-299, 2019, (**ACML 2019**)
+*	Huang, W., **Xu, R.Y.D**., Oppermann, I., (2019), [Realistic Image Generation using Region-phrase Attention](http://proceedings.mlr.press/v101/huang19a/huang19a.pdf), Asian Conference eon Machine Learning, PMLR 101:284-299, 2019, (**ACML 2019**)
 
-*	Huang, W.,  **Xu, R.Y.D**., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features, Asian Conference on Machine Learning](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), PMLR 101:300-315, 2019, (**ACML 2019**)
+*	Huang, W.,  **Xu, R.Y.D**., Oppermann, I., (2019), [Efficient Diversified Mini-Batch Selection using Variable High-layer Features](http://proceedings.mlr.press/v101/huang19b/huang19b.pdf), Asian Conference on Machine Learning, PMLR 101:300-315, 2019, (**ACML 2019**)
 
 *	Fan., X, **Xu., R. Y. D**., Cao., L (2016), [Copula Mixed-Membership Stochastic Blockmodel, International Joint Conference on Artificial Intelligence](https://www.ijcai.org/Proceedings/16/Papers/210.pdf) (**IJCAI 2016**) 
 
