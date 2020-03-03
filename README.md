@@ -10,7 +10,7 @@ You can download them by press the paper title
 *	Li, Y., Li, K., **Xu, R. Y. D**., Wang, X., (2020), [Exploring Temporal Consistency for Human Pose Estimation in Videos](https://github.com/roboticcam/publications/blob/master/papers/temporal_consistency.pdf), *accepted Jan 2020*, 
 ***Pattern Recognition, IF 5.898***
 
-*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization](), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
+*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization (preprint)](https://github.com/roboticcam/publications/blob/master/papers/kernel_bayesian.pdf), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
 
 *	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020) [Fast non-rigid points registration with cluster correspondences projection](https://github.com/roboticcam/publications/blob/master/papers/correspondences_projection.pdf), 170, 107425, ***Signal Processing, IF 4.086***
 
@@ -52,7 +52,7 @@ You can download them by press the paper title
 
 ## Selected Conferences papers
 
-*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020) [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply](https://arxiv.org/pdf/1912.09132.pdf) (to appear), the 24th European Conference on Artificial Intelligence [arXiv version](https://arxiv.org/pdf/1912.09132.pdf)(**ECAI 2020**)
+*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020) [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (preprint)](https://github.com/roboticcam/publications/blob/master/mean_field_dropout.pdf) (to appear), the 24th European Conference on Artificial Intelligence (**ECAI 2020**)
 
 *	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2020**)
 
