@@ -7,10 +7,10 @@ You can download them by press the paper title
 
 ## Selected Journals ##
 
+*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization (preprint)](https://github.com/roboticcam/publications/blob/master/papers/kernel_bayesian.pdf), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
+
 *	Li, Y., Li, K., **Xu, R. Y. D**., Wang, X., (2020), [Exploring Temporal Consistency for Human Pose Estimation in Videos](https://github.com/roboticcam/publications/blob/master/papers/temporal_consistency.pdf), *accepted Jan 2020*, 
 ***Pattern Recognition, IF 5.898***
-
-*	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization (preprint)](https://github.com/roboticcam/publications/blob/master/papers/kernel_bayesian.pdf), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
 
 *	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020) [Fast non-rigid points registration with cluster correspondences projection](https://github.com/roboticcam/publications/blob/master/papers/correspondences_projection.pdf), 170, 107425, ***Signal Processing, IF 4.086***
 
