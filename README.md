@@ -12,19 +12,19 @@ You can download them by clicking the paper title
 *	Li, Y., Li, K., **Xu, R. Y. D**., Wang, X., (2020), [Exploring Temporal Consistency for Human Pose Estimation in Videos](https://github.com/roboticcam/publications/blob/master/papers/temporal_consistency.pdf), *accepted Jan 2020*, 
 ***Pattern Recognition, IF 5.898***
 
-*	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020) [Fast non-rigid points registration with cluster correspondences projection](https://github.com/roboticcam/publications/blob/master/papers/correspondences_projection.pdf), 170, 107425, ***Signal Processing, IF 4.086***
+*	Li M., **Xu, R. Y. D**., Xin, J., Zhang, K., Jing, J., (2020), [Fast non-rigid points registration with cluster correspondences projection](https://github.com/roboticcam/publications/blob/master/papers/correspondences_projection.pdf), 170, 107425, ***Signal Processing, IF 4.086***
 
 *	Li, C., Xie, H., Fan, **Xu, R.Y.D**., Van Huffel, S., Mengersen K., (2019), [Image denoising based on nonlocal Bayesian singular value thresholding and Stein's unbiased risk estimator](https://github.com/roboticcam/publications/blob/master/papers/bayesian_svd.pdf), 28 (10), pp. 4899 – 4911 ***IEEE Transactions on Image Processing, IF 6.79***
 
-*	Jiang S., Li K, ***Xu, R.Y.D., (2019)*** [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](https://github.com/roboticcam/publications/blob/master/papers/relative_pairwise.pdf), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
+*	Jiang S., Li K, ***Xu, R.Y.D***., (2019), [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](https://github.com/roboticcam/publications/blob/master/papers/relative_pairwise.pdf), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
 
-*	Bargi, A., **Xu, R.Y.D**., & Piccardi, M., (2018) [AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data](https://github.com/roboticcam/publications/blob/master/papers/adon.pdf), 29 (9), pp. 3953 - 3968  ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
+*	Bargi, A., **Xu, R.Y.D**., & Piccardi, M., (2018), [AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data](https://github.com/roboticcam/publications/blob/master/papers/adon.pdf), 29 (9), pp. 3953 - 3968  ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
 *	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., & Luo, X., (2017) [Doubly Nonparametric Sparse Nonnegative Matrix Factorization based on Dependent Indian Buffet Processes](https://github.com/roboticcam/publications/blob/master/papers/doubly.pdf), Vol 29, NO. 5 pp. 1835 - 1849	***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
 *	Li, J., Deng, C., **Xu, R.Y.D**., Tao, D., & Zhao, B., (2017), [Robust Object Tracking with Discrete Graph Based Multiple Experts](https://github.com/roboticcam/publications/blob/master/papers/tracking_multi_experts.pdf), 	Vol 26, Issue 6, pp. 2736 - 2750, ***IEEE Transactions On Image Processing, IF 6.79***
 
-*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017) [Bayesian Nonparametric Relational Topic Model through Dependent Gamma Processes](https://github.com/roboticcam/publications/blob/master/papers/dependent_gamma.pdf), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
+*	Xuan, J., Lu, J., Zhang, G., **Xu, R.Y.D**., Luo, X., (2017), [Bayesian Nonparametric Relational Topic Model through Dependent Gamma Processes](https://github.com/roboticcam/publications/blob/master/papers/dependent_gamma.pdf), Vol.29, Issue 7, pp. 1357 – 1369 ***IEEE Transactions on Knowledge and Data Engineering IF 3.857***
 
 *	Fan, X., **Xu, R.Y.D**., Cao, L., Song. Y., (2017), [Learning Nonparametric Relational Models by Conjugately Incorporating Node Information in a Network](https://github.com/roboticcam/publications/blob/master/papers/conjugately_incorporating.pdf). Vol 47(3), pp. 589 – 599 ***IEEE Transaction on Cybernetics, IF 10.387***
 
@@ -52,9 +52,9 @@ You can download them by clicking the paper title
 
 ## Selected Conferences papers
 
-*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020) [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (preprint)](https://github.com/roboticcam/publications/blob/master/mean_field_dropout.pdf) (to appear), the 24th European Conference on Artificial Intelligence (**ECAI 2020**)
+*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020), [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (preprint)](https://github.com/roboticcam/publications/blob/master/mean_field_dropout.pdf) (to appear), the 24th European Conference on Artificial Intelligence (**ECAI 2020**)
 
-*	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020) [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2020**)
+*	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020), [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2020**)
 
 *	Huang, W., **Xu, R.Y.D**., Oppermann, I., (2019), [Realistic Image Generation using Region-phrase Attention](http://proceedings.mlr.press/v101/huang19a/huang19a.pdf), Asian Conference eon Machine Learning, PMLR 101:284-299, 2019, (**ACML 2019**)
 
@@ -76,7 +76,7 @@ You can download them by clicking the paper title
 
 *	**Xu, R. Y. D**., Brown, J., Traish, J., Dezwa, D., (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf), International Conference on Pattern Recognition (**ICPR 2008**), Florida, USA
 
-*	**Xu, R. Y. D**., (2008). [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
+*	**Xu, R. Y. D**., (2008), [A Computer Vision based Whiteboard Capture System](https://github.com/roboticcam/publications/blob/master/papers/whiteboard.pdf), IEEE Workshop on Application of Computer Vision (**WACV 2008**), Colorado, USA
 
 *	**Xu, R. Y. D**., Gao, J., Antolovich, M., (2008), [Novel Methods for High-Resolution Facial Image Capture using Calibrated PTZ and Static Cameras](https://github.com/roboticcam/publications/blob/master/papers/calibrated_ptz.pdf), IEEE International Conference on Multimedia & Expo (**ICME 2008**), Hanover, Germany: 45-48.
 
