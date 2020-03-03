@@ -16,7 +16,7 @@ You can download them by clicking the paper title
 
 *	Li, C., Xie, H., Fan, **Xu, R.Y.D**., Van Huffel, S., Mengersen K., (2019), [Image denoising based on nonlocal Bayesian singular value thresholding and Stein's unbiased risk estimator](https://github.com/roboticcam/publications/blob/master/papers/bayesian_svd.pdf), 28 (10), pp. 4899 – 4911 ***IEEE Transactions on Image Processing, IF 6.79***
 
-*	Jiang S., Li K, ***Xu, R.Y.D***., (2019), [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](https://github.com/roboticcam/publications/blob/master/papers/relative_pairwise.pdf), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
+*	Jiang S., Li K, **Xu, R.Y.D**., (2019), [Relative Pairwise Relationship Constrained Non-negative Matrix Factorisation](https://github.com/roboticcam/publications/blob/master/papers/relative_pairwise.pdf), Vol. 31, No. 8, pp.1595 – 1609 ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
 
 *	Bargi, A., **Xu, R.Y.D**., & Piccardi, M., (2018), [AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data](https://github.com/roboticcam/publications/blob/master/papers/adon.pdf), 29 (9), pp. 3953 - 3968  ***IEEE Transactions on Neural Networks and Learning Systems IF 11.683***
 
