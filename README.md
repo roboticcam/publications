@@ -7,6 +7,8 @@ You can download them by clicking the paper title
 
 ## Selected Journals ##
 
+*	Jiang S., Li K, **Xu, R.Y.D**., (2020), [Magnitude Bounded Matrix Factorisation for Recommender Systems](https://github.com/roboticcam/publications/blob/master/papers/bound_matrix.pdf), *accepted Feb 2020* ***IEEE Transactions on Knowledge and Data Engineering, IF 3.857***
+
 *	Li, C., Xie, H., Fan, X, **Xu, R. Y. D**., Van Huffel, S., Mengersen K., (2020), [Kernelized Sparse Bayesian Matrix Factorization (preprint)](https://github.com/roboticcam/publications/blob/master/papers/kernel_bayesian.pdf), *accepted Feb 2020* ***IEEE Transactions on Neural Networks and Learning Systems, IF 11.683***
 
 *	Li, Y., Li, K., **Xu, R. Y. D**., Wang, X., (2020), [Exploring Temporal Consistency for Human Pose Estimation in Videos](https://github.com/roboticcam/publications/blob/master/papers/temporal_consistency.pdf), *accepted Jan 2020*, 
