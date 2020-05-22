@@ -54,7 +54,7 @@ You can download them by clicking the paper title
 
 ## Selected Conferences papers
 
-*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020), [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (preprint)](https://github.com/roboticcam/publications/blob/master/meanfield_dropout.pdf) (to appear), the 24th European Conference on Artificial Intelligence (**ECAI 2020**)
+*	Huang, W., **Xu, R. Y. D**., Du, W., Zeng Y., and Zhao Y., (2020), [Mean field theory for deep dropout networks: digging up gradient backpropagation deeply (preprint)](https://github.com/roboticcam/publications/blob/master/mean_field_dropout.pdf) (to appear), the 24th European Conference on Artificial Intelligence (**ECAI 2020**)
 
 *	Li, Y., Li., K, Jiang., S, Zhang., Z Y, Huang., C Z T and **Xu, R. Y. D**., (2020), [Geometry Self-Supervised method for 3D Human Pose](https://github.com/roboticcam/publications/blob/master/papers/aaai_3d_pose.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2020**)
 
