@@ -56,7 +56,7 @@ You can download them by clicking the paper title
 
 *	Huang, W., Du, W., **Xu, R. Y. D**., (2021 to appear), [On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization (preprint)](https://arxiv.org/pdf/2004.05867.pdf), International Joint Conference on Artificial Intelligence, (**IJCAI 2021**) 
 
-Markos, C., Yu, J, **Xu, R. Y. D**., (2021 to appear), [Capturing Uncertainty in Unsupervised GPS Trajectory Segmentation Using Bayesian Deep Learning (preprint)](https://github.com/roboticcam/publications/blob/master/papers/gps.pdf),, Association for the Advancement of Artificial Intelligence (**AAAI 2021**)
+Markos, C., Yu, J, **Xu, R. Y. D**., (2021 to appear), [Capturing Uncertainty in Unsupervised GPS Trajectory Segmentation Using Bayesian Deep Learning (preprint)](https://github.com/roboticcam/publications/blob/master/papers/gps.pdf), Association for the Advancement of Artificial Intelligence (**AAAI 2021**)
 
 * Huang, C., Jiang, S., Li, Y., Zhang, Z., Traish, J., Deng, C., Ferguson, S., **Xu, R. Y. D**., [End-to-end Dynamic Matching Network for Multi-view Multi-person 3D Pose Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730477.pdf), European Conference on Computer Vision (ECCV), 477-493 (**ECCV 2020**)
 
