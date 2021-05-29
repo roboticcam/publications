@@ -80,6 +80,10 @@ You can download them by clicking the paper title
 
 *	Bargi A., **Xu, R. Y. D**., Piccardi M, (2014), [An Infinite Adaptive Online Learning Model for Segmentation and Classification of Streaming Data](https://github.com/roboticcam/publications/blob/master/papers/infinite_stream_data.pdf), International Conference on Pattern Recognition (**ICPR 2014**)
 
+* Borzeshi, E., Piccardi, M, **Xu, R. Y. D**.,(2011) [A discriminative prototype selection approach for graph embedding in human action recognition](https://github.com/roboticcam/publications/blob/master/papers/discriminative_prototype.pdf), 2011 IEEE International Conference on Computer Vision Workshops
+
+* Borzeshi, E., Piccardi, M, **Xu, R. Y. D**., (2011) [HMM-MIO: an enhanced hidden Markov model for action recognition](https://github.com/roboticcam/publications/blob/master/papers/hmm-mio.pdf), 2011 CVPR Workshops
+
 *	**Xu, R. Y. D**., Kemp, M., (2009), [Multiple Curvature Based Approach to Human Upper Body Parts Detection with Connected Ellipse Model Fine-Tuning](https://github.com/roboticcam/publications/blob/master/papers/multiple_curvature_ellipse.pdf), IEEE International Conference on Image Processing (**ICIP2009**), Cairo Egypt
 
 *	**Xu, R. Y. D**., Brown, J., Traish, J., Dezwa, D., (2008), [A Computer Vision Based Camera Pedestal's Vertical Motion Control](https://github.com/roboticcam/publications/blob/master/papers/pedestal_motion.pdf), International Conference on Pattern Recognition (**ICPR 2008**), Florida, USA
